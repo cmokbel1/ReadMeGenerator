@@ -35,7 +35,7 @@ const questions =
       type: 'list',
       name: 'license',
       message: 'Licenses:  ',
-      choices:  [`${githublink}`]
+      choices:  ['licence 1','license2','license3']
     },
     {
       type: 'input',
