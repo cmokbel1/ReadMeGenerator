@@ -1,8 +1,8 @@
 
   # test
-  https://img.shields.io/github/commit-activity/m/test/test?style=plastic
-  https://img.shields.io/github/release-date/test/test
-  https://img.shields.io/github/license/test/test
+  https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator?style=plastic
+  https://img.shields.io/github/release-date/cmokbel1/ReadMeGenerator
+  https://img.shields.io/github/license/cmokbel1/ReadMeGenerator
   
 
 
@@ -22,7 +22,7 @@
   test
 
   ## Licenses
-  Bower
+  NPM
 
   ## Contributions
   test
@@ -32,6 +32,6 @@
 
   ## Questions
    For questions regarding the project, please use the following information:
-    1. Username: test
-    2. Repository: https://github.com/test
-    3. E-mail: test
+  1. Username: cmokbel1
+  2. Repository: https://github.com/cmokbel1
+  3. E-mail: claudemokbel@gmail.com
