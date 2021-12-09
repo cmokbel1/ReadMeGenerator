@@ -28,7 +28,6 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/${data.gitHub}/${data.repo})
-  ![GitHub](https://img.shields.io/github/license/${data.gitHub}/${data.repo})
   ${licenseBadge}
 
 
