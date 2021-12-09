@@ -32,7 +32,7 @@ const questions =
       type: 'list',
       name: 'license',
       message: 'Licenses:  ',
-      choices: ['NPM','APM','Bower','Hex.pm']
+      choices: ['NPM','APM','Bower','Hex.pm','Do What the F&%k You Want']
     },
     {
       type: 'input',

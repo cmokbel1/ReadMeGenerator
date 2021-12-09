@@ -20,6 +20,10 @@ function generateMarkdown(data) {
   if (data.license === 'Hex.pm') {
     licenseBadge.push(`![Hex.pm](https://img.shields.io/hexpm/l/plug)`)
   }
+
+  if (data.license === 'Do What the F&%k You Want') {
+    licenseBadge.push(`<img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>`)
+  }
   // # displays an h1 header, ## displays h2 header
   return `
   # ${data.title}
