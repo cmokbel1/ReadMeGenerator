@@ -1,7 +1,9 @@
 // call axios
 var axios = require('axios');
 // call  markdown function
-var mD = require('./utils/generateMarkdown.js');
+var mD = require('./utils/generateMarkdown');
+var fs = require('fs');
+
 
 // array of questions for user
 const questions =
@@ -52,34 +54,27 @@ const questions =
 // INQUIRE INPUT
 var inquirer = require('inquirer');
 
-inquirer
-  .prompt(
-    // array of questions for user
-    questions
-  )
-  .then((answers) => {
-    writeToFile('README.md', mD(answers)) 
-    // move answers to markdown function
-    // markdown function needs to call the write to File function
-  })
-  .catch((error) => {
-    if (error.isTtyError) {
-        prompt(error.isTtyError)
-    } else {
-      prompt(error)
-    }
-  });
-
 
 // function to write README file
-function writeToFile(filename, data) {
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, err => {
+    if (err) {
+      return console.log(err);
+    }
 
+    console.log("File written successfully!")
+  });
 }
 
 // function to initialize program
-function init() {
-
-}
-
-// function call to initialize program
+async function init() {
+  try {
+    const userAnswers = await inquirer.prompt(questions)
+  const markDown = mD(userAnswers)
+  await writeToFile('EXAMPLEREADME.md', markDown)
+} catch (error) {
+  console.log(error)
+    }
+};
+  // function call to initialize program
 init();
