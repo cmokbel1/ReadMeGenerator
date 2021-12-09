@@ -2,10 +2,10 @@
 function generateMarkdown(data) {
   // # displays an h1 header, ## displays h2 header
   return `
-  # ${data.title}, 
+  # ${data.title}
       
   ## Description 
-    ${data.description},
+    ${data.description}
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,22 +14,22 @@ function generateMarkdown(data) {
   4. [Licenses](#Licenses)
       
   ## Installation
-  ${data.installation},
+  ${data.installation}
 
   ## Usage
-    ${data.usage},
+    ${data.usage}
 
   ## Licenses
-   ${data.license}, 
+   ${data.license}
 
   ## Contributions
-    ${data.contributions}, 
+    ${data.contributions}
 
   ## Tests
-    ${data.tests},
+    ${data.tests}
 
   ## Questions
-   ${data.ques}, 
+   ${data.ques}
   
 `;
 }
