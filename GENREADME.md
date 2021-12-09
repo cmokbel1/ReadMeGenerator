@@ -1,8 +1,8 @@
 
-  # Title of New Project
+  # Read Me Generator
       
   ## Description 
-    This project was built to allow myself and other users the opportunity to generate README.md files through the terminal without the need to manually type all the encessary information into a file the README.md file generated on github
+    This project was built to allow myself and other users the opportunity to create a README.md file without the hassle of manually inputting the information needed. I struggled with creating the writeFile function but after some research and help from classmates I was able to scale the hurdles and push through. Learning Markdown syntax was also something very new to me, thankfully there are many websites to scour through for valuable information.
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -11,19 +11,19 @@
   4. [Licenses](#Licenses)
       
   ## Installation
-   download all files
+    Download all files, install inquirer in your console with the command, 'npm i inquirer'
 
   ## Usage
-    type 'npm i inquirer' in console. To run the file type 'node index.js' in console once you're ready to generate a README.md
+    To use this file: simply type 'node index.js' in the terminal and the Read Me generator will begin prompting the user for necessary information.
 
   ## Licenses
-   Do What The F*ck You Want To Public License
+    Do What The F*ck You Want To Public License
 
   ## Contributions
-    To contribute please contact me
+    To contribute please contact myself with the information listed below.
 
   ## Tests
-    Performed tests to determine if the questions were prompted for the user, will also do tests to determine whether or not the if conditions work to display badges on the page, also tested the functionality of the Markdown file maker itself.
+    I tested the functionality of the inquirer. I tested the Markdown useability to determine whether or not a file would successfully be created. 
 
   ## Questions
    For questions regarding the project, please use the following information:
