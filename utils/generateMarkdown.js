@@ -14,13 +14,13 @@ function generateMarkdown(data) {
   4. [Licenses](#Licenses)
       
   ## Installation
-   ${data.installation}
+    ${data.installation}
 
   ## Usage
     ${data.usage}
 
   ## Licenses
-   ${data.license}
+    ${data.license}
 
   ## Contributions
     ${data.contributions}
