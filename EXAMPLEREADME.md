@@ -1,30 +1,30 @@
 
-  # Title of the project, 
+  # TiTle, 
       
-  ## Descrition 
+  ## Description 
     Desccription which should actually be pretty fucking long but usually isn't because i'm lazy as fuck,
 
   ## Table of Contents
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [Contribution Guidelines](#Contributions)
-    [Licenses](#Licenses)
+  [Installation](#Installation)
+  [Usage](#Usage)
+  [Contribution Guidelines](#Contributions)
+  [Licenses](#Licenses)
       
   ## Installation
-  To install just download the file and run it in the terminal with node index.js,
+  Download all files,
 
   ## Usage
-    i just told you in the guidelines,
+    run the command 'node index.js in the terminal,
 
   ## Licenses
    Do What The F*ck You Want To Public License, 
 
   ## Contributions
-    Give me my credit you skank ass hoes, 
+    Contribute but don't steal, 
 
   ## Tests
-    A lot,
+    Here's another one,
 
-  ##Questions
-   Contact Deez Nuts, 
+  ## Questions
+   I dont have questions, 
   
