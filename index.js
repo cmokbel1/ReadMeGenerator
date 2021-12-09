@@ -46,8 +46,13 @@ const questions =
     },
     {
       type: 'input',
-      name: 'ques',
-      message: 'Questions:  ',
+      name: 'gitHub',
+      message: 'Enter Github Username:  ',
+    }
+    {
+      type: 'input',
+      name:'email',
+      message: 'Enter your e-mail: ',
     }
   ];
 

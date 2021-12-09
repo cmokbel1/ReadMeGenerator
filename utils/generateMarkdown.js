@@ -29,8 +29,10 @@ function generateMarkdown(data) {
     ${data.tests}
 
   ## Questions
-   ${data.ques}
-  
+   For questions regarding the project, please use the following information:
+   1. Username: ${data.gitHub}
+   2. https://github.com/${data.gitHub}
+   3. E-mail: ${data.email}
 `;
 }
 
