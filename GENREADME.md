@@ -1,13 +1,11 @@
 
-  # test
+  # title
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator)
-  ![GitHub](https://img.shields.io/github/license/cmokbel1/ReadMeGenerator)
-
-  
+  ![APM](https://img.shields.io/apm/l/vim-mode)
 
 
   ## Description 
-  test
+  description
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -16,19 +14,19 @@
   4. [Licenses](#Licenses)
       
   ## Installation
-  test
+  Guidelines
 
   ## Usage
-  test
+  use
 
   ## Licenses
   APM
 
   ## Contributions
-  test
+  guidelines
 
   ## Tests
-  test
+  performed
 
   ## Questions
    For questions regarding the project, please use the following information:

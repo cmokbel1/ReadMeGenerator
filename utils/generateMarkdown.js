@@ -1,12 +1,31 @@
+
+
 // function to generate markdown for README
 function generateMarkdown(data) {
+  // declare badge logic
+  let licenseBadge = [];
+
+  // check
+  if (data.license === 'NPM') {
+    licenseBadge.push(`![NPM](https://img.shields.io/npm/l/full)`)
+  }
+
+  if (data.license === 'APM') {
+    licenseBadge.push(`![APM](https://img.shields.io/apm/l/vim-mode)`)
+  }
+
+  if (data.license === 'Bower') {
+    licenseBadge.push(`![Bower](https://img.shields.io/bower/l/bootstrap)`)
+  }
+  if (data.license === 'Hex.pm') {
+    licenseBadge.push(`![Hex.pm](https://img.shields.io/hexpm/l/plug)`)
+  }
   // # displays an h1 header, ## displays h2 header
   return `
   # ${data.title}
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/${data.gitHub}/${data.repo})
   ![GitHub](https://img.shields.io/github/license/${data.gitHub}/${data.repo})
-
-  
+  ${licenseBadge}
 
 
   ## Description 
@@ -42,3 +61,4 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
