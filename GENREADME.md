@@ -1,8 +1,9 @@
 
   # test
-  https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator?style=plastic
-  https://img.shields.io/github/release-date/cmokbel1/ReadMeGenerator
-  https://img.shields.io/github/license/cmokbel1/ReadMeGenerator
+  (https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator?style=plastic)
+  (https://img.shields.io/github/release-date/cmokbel1/ReadMeGenerator)
+  (https://img.shields.io/github/license/cmokbel1/ReadMeGenerator)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/cmokbel1/ReadMeGenerator7D?style=flat&logo=appveyor)
   
 
 

@@ -3,9 +3,10 @@ function generateMarkdown(data) {
   // # displays an h1 header, ## displays h2 header
   return `
   # ${data.title}
-  https://img.shields.io/github/commit-activity/m/${data.gitHub}/${data.repo}?style=plastic
-  https://img.shields.io/github/release-date/${data.gitHub}/${data.repo}
-  https://img.shields.io/github/license/${data.gitHub}/${data.repo}
+  (https://img.shields.io/github/commit-activity/m/${data.gitHub}/${data.repo}?style=plastic)
+  (https://img.shields.io/github/release-date/${data.gitHub}/${data.repo})
+  (https://img.shields.io/github/license/${data.gitHub}/${data.repo})
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${data.gitHub}/${data.repo}7D?style=flat&logo=appveyor)
   
 
 
