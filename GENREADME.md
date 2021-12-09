@@ -1,11 +1,11 @@
 
-  # Title
+  # Title Project
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator)
   <img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>
 
 
   ## Description 
-  This is a brief Description
+  Brief Description
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,19 +14,19 @@
   4. [Licenses](#Licenses)
       
   ## Installation
-  download all files. type npm i inquirer
+  download files, run npm i inquirer in the terminal
 
   ## Usage
-  open a command line terminal, type 'node index.js' and press enter
+  type 'node index.js' in the terminal
 
   ## Licenses
   Do What the F&%k You Want
 
   ## Contributions
-  Contact information posted below for further inquiry
+  Contact via information below for further information
 
   ## Tests
-  performed
+  Random tests for functionality purposes
 
   ## Questions
    For questions regarding the project, please use the following information:
