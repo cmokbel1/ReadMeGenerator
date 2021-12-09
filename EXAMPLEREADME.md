@@ -1,8 +1,8 @@
 
-  # Project Title, 
+  # Project Title
       
   ## Description 
-    Desccription which should actually be pretty fucking long but usually isn't because i'm lazy as fuck,
+    This is the description portion of the project
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -11,20 +11,22 @@
   4. [Licenses](#Licenses)
       
   ## Installation
-  Download all files,
+  download all files
 
   ## Usage
-    run command 'node index.js' in your terminal window,
+    type: node index.js in terminal
 
   ## Licenses
-   Do What The F*ck You Want To Public License, 
+   Do What The F*ck You Want To Public License
 
   ## Contributions
-    You can't contribute to something you didn't help create, 
+    You can't contribute to my amazing work of art.
 
   ## Tests
-    A lot of tests were performed,
+    Performed many tests to verify code functionality
 
   ## Questions
-   contact Deez Nuts, 
-  
+   For questions regarding the project, please use the following information:
+   1. Username: cmokbel1
+   2. https://github.com/cmokbel1
+   3. E-mail: claudemokbel@gmail.com

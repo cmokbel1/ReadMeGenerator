@@ -48,7 +48,7 @@ const questions =
       type: 'input',
       name: 'gitHub',
       message: 'Enter Github Username:  ',
-    }
+    },
     {
       type: 'input',
       name:'email',
@@ -76,7 +76,7 @@ async function init() {
   try {
     const userAnswers = await inquirer.prompt(questions)
   const markDown = mD(userAnswers)
-  await writeToFile('EXAMPLEREADME.md', markDown)
+  await writeToFile('GENREADME.md', markDown)
 } catch (error) {
   console.log(error)
     }
