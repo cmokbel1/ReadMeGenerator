@@ -1,30 +1,30 @@
 
-  # sdf, 
+  # Title of the project, 
       
-  ##Descrition 
-  sdf,
+  ## Descrition 
+    Desccription which should actually be pretty fucking long but usually isn't because i'm lazy as fuck,
 
-  ##Table of Contents
-  [Installation](#Installation)
-  [Usage](#Usage)
-  [Contribution Guidelines](#Contributions)
-  [Licenses](#Licenses)
+  ## Table of Contents
+    [Installation](#Installation)
+    [Usage](#Usage)
+    [Contribution Guidelines](#Contributions)
+    [Licenses](#Licenses)
       
-  ##Installation
-  sdf,
+  ## Installation
+  To install just download the file and run it in the terminal with node index.js,
 
-  ##Usage
-  sdf,
+  ## Usage
+    i just told you in the guidelines,
 
-  ##Licenses
-  Academic Free License v3.0, 
+  ## Licenses
+   Do What The F*ck You Want To Public License, 
 
-  ##Contributions
-  , 
+  ## Contributions
+    Give me my credit you skank ass hoes, 
 
-  ##Tests
-  sdf,
+  ## Tests
+    A lot,
 
   ##Questions
-  sdf, 
+   Contact Deez Nuts, 
   
