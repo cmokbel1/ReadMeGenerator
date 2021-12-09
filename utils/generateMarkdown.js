@@ -4,14 +4,14 @@ function generateMarkdown(data) {
   return `
   # ${data.title}, 
       
-  ## Descrition 
+  ## Description 
     ${data.description},
 
   ## Table of Contents
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [Contribution Guidelines](#Contributions)
-    [Licenses](#Licenses)
+  [Installation](#Installation)
+  [Usage](#Usage)
+  [Contribution Guidelines](#Contributions)
+  [Licenses](#Licenses)
       
   ## Installation
   ${data.installation},
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   ## Tests
     ${data.tests},
 
-  ##Questions
+  ## Questions
    ${data.ques}, 
   
 `;
