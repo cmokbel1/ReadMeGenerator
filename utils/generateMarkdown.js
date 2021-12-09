@@ -5,7 +5,7 @@ function generateMarkdown(data) {
   # ${data.title}
       
   ## Description 
-    ${data.description}
+  ${data.description}
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,25 +14,25 @@ function generateMarkdown(data) {
   4. [Licenses](#Licenses)
       
   ## Installation
-    ${data.installation}
+  ${data.installation}
 
   ## Usage
-    ${data.usage}
+  ${data.usage}
 
   ## Licenses
-    ${data.license}
+  ${data.license}
 
   ## Contributions
-    ${data.contributions}
+  ${data.contributions}
 
   ## Tests
-    ${data.tests}
+  ${data.tests}
 
   ## Questions
    For questions regarding the project, please use the following information:
-   1. Username: ${data.gitHub}
-   2. Repository: https://github.com/${data.gitHub}
-   3. E-mail: ${data.email}
+    1. Username: ${data.gitHub}
+    2. Repository: https://github.com/${data.gitHub}
+    3. E-mail: ${data.email}
 `;
 }
 
