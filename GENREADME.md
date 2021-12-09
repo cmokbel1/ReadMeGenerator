@@ -2,7 +2,7 @@
   # title
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator)
   ![GitHub](https://img.shields.io/github/license/cmokbel1/ReadMeGenerator)
-  i<mg src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>
+  <img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>
 
 
   ## Description 
@@ -27,7 +27,7 @@
   guidelines
 
   ## Tests
-  tests
+  performed
 
   ## Questions
    For questions regarding the project, please use the following information:
