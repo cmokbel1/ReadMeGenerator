@@ -18,11 +18,6 @@ const questions =
     },
     {
       type: 'input',
-      name: 'tableOfContents',
-      message: 'Table of Contents: ',
-    },
-    {
-      type: 'input',
       name: 'installation',
       message: 'Installation Guidelines: ',
     },
@@ -56,13 +51,14 @@ const questions =
 
 // INQUIRE INPUT
 var inquirer = require('inquirer');
-const generateMarkdown = require('./utils/generateMarkdown.js');
+
 inquirer
   .prompt(
     // array of questions for user
     questions
   )
   .then((answers) => {
+    writeToFile('README.md', mD(answers)) 
     // move answers to markdown function
     // markdown function needs to call the write to File function
   })
@@ -77,10 +73,7 @@ inquirer
 
 // function to write README file
 function writeToFile(filename, data) {
-  // these needs to call generate mark down
-  // then needs to push answers to proper section
-  //table of contents needs to create a list
-  // link the 'toc' to appropriate object on page
+
 }
 
 // function to initialize program
