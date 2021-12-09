@@ -1,12 +1,12 @@
 
-  # Test
+  # title
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator)
   ![GitHub](https://img.shields.io/github/license/cmokbel1/ReadMeGenerator)
-  ../package.json/"Badge"
+  i<mg src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>
 
 
   ## Description 
-  test
+  description
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -15,19 +15,19 @@
   4. [Licenses](#Licenses)
       
   ## Installation
-  test
+  guidelines
 
   ## Usage
-  test
+  use
 
   ## Licenses
   Do What the F&%k You Want
 
   ## Contributions
-  test
+  guidelines
 
   ## Tests
-  test
+  tests
 
   ## Questions
    For questions regarding the project, please use the following information:

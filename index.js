@@ -51,14 +51,14 @@ const questions =
     },
     {
       type: 'input',
-      name:'email',
-      message: 'Enter your e-mail: ',
+      name: 'repo',
+      message: 'Repository: '
     },
     {
       type: 'input',
-      name: 'repo',
-      message: 'Repository: '
-    }
+      name:'email',
+      message: 'Enter your e-mail: ',
+    },
   ];
 
 // INQUIRE INPUT
