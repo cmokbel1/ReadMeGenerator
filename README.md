@@ -1,5 +1,6 @@
   # Read Me Generator
-      
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cmokbel1/ReadMeGenerator)
+  <img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>
   ## Description 
   This project was built to allow myself and other users the opportunity to create a README.md file without the hassle of manually inputting the information needed. I struggled with creating the writeFile function but after some research and help from classmates I was able to scale the hurdles and push through. Learning Markdown syntax was also something very new to me, thankfully there are many websites to scour through for valuable information.
 
@@ -29,3 +30,6 @@
    1. Username: cmokbel1
    2. Repository: https://github.com/cmokbel1
    3. E-mail: claudemokbel@gmail.com
+
+# Demo
+- https://www.youtube.com/watch?v=yLcLP55G0d0
