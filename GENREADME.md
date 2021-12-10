@@ -1,7 +1,7 @@
 
   # asd
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/asd/asd)
-  ![DWTFYW](https://img.shields.io/badge/License-DWTFYW-green)
+  ![Do What the F&%k You Want](https://img.shields.io/badge/License-Do What the F&%k You Want-green)
 
 
   ## Description 
