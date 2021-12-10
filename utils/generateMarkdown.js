@@ -22,7 +22,7 @@ function generateMarkdown(data) {
   }
 
   if (data.license === 'Do What the F&%k You Want') {
-    licenseBadge.push(`<img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png"/>`)
+    licenseBadge.push(`https://img.shields.io/badge/License-DWTFYW-green`)
   }
   // # displays an h1 header, ## displays h2 header
   return `

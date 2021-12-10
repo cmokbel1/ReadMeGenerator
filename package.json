@@ -11,11 +11,5 @@
   "dependencies": {
     "axios": "^0.24.0",
     "inquirer": "^6.5.2"
-  },
-  "Badge": {
-    "schemaVersion": 1,
-    "label": "License",
-    "message": "DWTFYW",
-    "color": "green"
   }
 }
