@@ -1,11 +1,11 @@
 
-  # asd
+  # give
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/asd/asd)
-  ![Do What the F&%k You Want](https://img.shields.io/badge/License-Do What the F&%k You Want-green)
+  ![Do What the F&%k You Want](https://img.shields.io/badge/License-Do%20What%20the%20F&%k%20You%20Want-green)
 
 
   ## Description 
-  asd
+  it
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,10 +14,10 @@
   4. [Licenses](#Licenses)
       
   ## Installation
-  asd
+  a
 
   ## Usage
-  asd
+  go
 
   ## Licenses
   Do What the F&%k You Want

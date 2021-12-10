@@ -22,7 +22,7 @@ function generateMarkdown(data) {
   }
 
   if (data.license === 'Do What the F&%k You Want') {
-    licenseBadge.push(`![Do What the F&%k You Want](https://img.shields.io/badge/License-Do What the F&%k You Want-green)`)
+    licenseBadge.push(`![Do What the F&%k You Want](https://img.shields.io/badge/License-Do%20What%20the%20F&%k%20You%20Want-green)`)
   }
   // # displays an h1 header, ## displays h2 header
   return `
