@@ -59,7 +59,7 @@ function generateMarkdown(data) {
   ## Questions
    For questions regarding the project, please use the following information:
   1. Username: ${data.gitHub}
-  2. Repository: https://github.com/${data.gitHub}
+  2. Repository: https://github.com/${data.gitHub}/${data.repo}
   3. E-mail: ${data.email}
 `;
 }

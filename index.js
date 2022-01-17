@@ -52,7 +52,7 @@ const questions =
     {
       type: 'input',
       name: 'repo',
-      message: 'Repository: '
+      message: 'Repository Name: '
     },
     {
       type: 'input',
